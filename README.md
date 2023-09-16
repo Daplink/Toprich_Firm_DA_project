@@ -1,6 +1,14 @@
 # Toprich_Firm_DA_project
 Providing explorative Data Analysis to boost company productivity and increase efficiency
 
+## Table of Content
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Road MAp](#road-map)
+- [Library](#libraries)
+- [Changing Datatype](#changing-datatype)
+
 ### Project Overview
 
 To improve the effectiveness of business processes companies are focussing on collecting data. Data analytics companies enable businesses to analyze the acquired data and use them as required. Data analytics services can assist in product development. Identifying potential market gaps and improving operational efficiency. etc
@@ -174,7 +182,7 @@ df2['firm_founded'] = years
 df2['firm_location'] = locations
 ```
 
-###PREVIEW
+### PREVIEW
 
 ```
 df2.head()
