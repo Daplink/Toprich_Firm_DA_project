@@ -6,7 +6,7 @@ Providing explorative Data Analysis to boost company productivity and increase e
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Road MAp](#road-map)
-- [Library](#libraries)
+- [Libraries](#libraries)
 - [Changing Datatype](#changing-datatype)
 
 ### Project Overview
@@ -251,7 +251,7 @@ df.info()
 ```
 
 
-#### CHANGING DATA_TYPE
+#### Changing Datatype
 
 ```
 df['star_rating'] = df['star_rating'].astype('float')
